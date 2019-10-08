@@ -8,8 +8,14 @@ The images and JSON files used as the basis of the drafter are taken from Eterna
 
 The card ratings used are from Farming Eternal; http://farmingeternal.azurewebsites.net/. This is a great podcast and community. The ratings themselves are taken from Ben's metrics. Thank you all very much!
 
+Feel free to provide feedback on GitHub or anywhere else you can reach me.
+
 
 
 ### Version 0.1 ###
 
-Currently it is just a Python code (or corresponding Jupyter Notebook code). To use, download the files, and run the code (or the notebook). There are a few packages that are required to run it, but most are not unusual, so hopefully it isn't too difficult to use. I'm brand new to coding for other's use, so let me know if there is something I really shouldn't do. Feel free to provide feedback on GitHub or anywhere else you can reach me.
+Currently it is just a Python code (or corresponding Jupyter Notebook code). To use, download the files, and run the code (or the notebook). There are a few packages that are required to run it, but most are not unusual, so hopefully it isn't too difficult to use. I'm brand new to coding for other's use, so let me know if there is something I really shouldn't do.
+
+### Version 1.0 ###
+
+There is now a basic GUI in place, and a Windows executable. To use it, simply download and extract all of the files, then find the application called "Draft Simulator" and double-click. That will run the program. Currently, the bots do not have much information about the format, as it runs the Set 6 - Flames of Xulta draft, which currently is new. So, the bots are a bit dumb, but they still work; usually taking the rare in the pack and then sticking to the first two colors they get into. This will be improved soon.
