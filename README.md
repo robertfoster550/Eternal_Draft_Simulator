@@ -29,3 +29,8 @@ Added the 'Cost Curve' to the drafting screen.
 Added progress bar to the drafting screen.
 Added 'Settings', saving and resetting; more options comming soon.
 All of Set 7 has been added, but we don't have the Draft Pack contents yet, so the default format is still 6c. 
+
+### Version 1.2 ###
+
+Added Format 7 draft, and made it the default.
+Fixed the Pass Styles, so they actually work now.
