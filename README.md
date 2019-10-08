@@ -19,3 +19,12 @@ Currently it is just a Python code (or corresponding Jupyter Notebook code). To 
 ### Version 1.0 ###
 
 There is now a basic GUI in place, and a Windows executable. To use it, simply download and extract all of the files, then find the application called "Draft Simulator" and double-click. That will run the program. Currently, the bots do not have much information about the format, as it runs the Set 6 - Flames of Xulta draft, which currently is new. So, the bots are a bit dumb, but they still work; usually taking the rare in the pack and then sticking to the first two colors they get into. This will be improved soon.
+
+### Version 1.1 ###
+
+Moved 'Start Draft' button to center of the screen.
+Made the stats slightly smaller.
+Made the deck list slightly larger.
+Added the 'Cost Curve' to the drafting screen.
+Added progress bar to the drafting screen.
+Added 'Settings', saving and resetting; more options comming soon.
