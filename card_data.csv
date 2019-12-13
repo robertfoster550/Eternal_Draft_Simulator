@@ -191,7 +191,7 @@
 1-140|Paladin Oathbook|Rare|Relic|2|{J}|False|False|True|False|False|images/set1/Paladin_Oathbook.png|1
 1-141|Rebuke|Common|Spell|2|{J}|False|False|True|False|False|images/set1/Rebuke.png|1
 1-142|Crownwatch Longsword|Common|Weapon|2|{J}|False|False|True|False|False|images/set1/Crownwatch_Longsword.png|1
-1-143|Vanquish|Uncommon|Spell|2|{J}|False|False|True|False|False|images/set1/Vanquish.png|1
+1-143|Vanquish|Uncommon|Spell|3|{J}|False|False|True|False|False|images/set1/Vanquish.png|1
 1-144|Eager Owlet|Rare|Unit|2|{J}|False|False|True|False|False|images/set1/Eager_Owlet.png|1
 1-145|Valorous Stranger|Uncommon|Unit|3|{J}|False|False|True|False|False|images/set1/Valorous_Stranger.png|1
 1-146|Auric Sentry|Uncommon|Unit|3|{J}|False|False|True|False|False|images/set1/Auric_Sentry.png|1
@@ -754,7 +754,7 @@
 3-Twilight Prowler|Twilight Prowler|None|Unit|4||False|False|False|False|False|images/set3/Twilight_Prowler.png|1
 3-Jotun|Jotun|None|Unit|6||False|False|False|False|False|images/set3/Jotun.png|1
 3-Cabal Extortion Scheme|Cabal Extortion Scheme|None|Spell|3||False|False|False|False|False|images/set3/Cabal_Extortion_Scheme.png|1
-3-Nyctophobia|Nyctophobia|None|Cursed Relic|5|{S}|False|False|False|False|True|images/set3/Nyctophobia.png|1
+3-Nyctophobia|Nyctophobia|None|Cursed Relic|4|{S}|False|False|False|False|True|images/set3/Nyctophobia.png|1
 3-Sidearm|Sidearm|None|Weapon|1||False|False|False|False|False|images/set3/Sidearm.png|1
 3-Fixit|Fixit|None|Weapon|2||False|False|False|False|False|images/set3/Fixit.png|1
 3-1|Granite Waystone|Common|Power|0|{F}|True|False|False|False|False|images/set3/Granite_Waystone.png|1
@@ -1883,12 +1883,13 @@
 6-316|Jishu, the Burning Brush|Promo|Unit|2|{F}|True|False|False|False|False|images/set6/Jishu,_the_Burning_Brush.png|1
 6-317|Albon Roa, of the Order|Promo|Unit|4|{T}{T}{P}{P}|False|True|False|True|False|images/set6/Albon_Roa,_of_the_Order.png|1
 6-318|Oizio, Adaptive Spy|Promo|Unit|3|{P}{S}|False|False|False|True|True|images/set6/Oizio,_Adaptive_Spy.png|1
-6-319|Garden of Omens|Promo|Site|5|{F}{P}|True|False|False|True|False|images/set6/Garden_of_Omens.png|1
+6-319|Garden of Omens|Promo|Site|5|{F}{F}{P}{P}|True|False|False|True|False|images/set6/Garden_of_Omens.png|1
 7-Ash Elemental|Ash Elemental|None|Unit|2|{F}{F}{F}|True|False|False|False|False|images/set7/Ash_Elemental.png|1
 7-Oni Grunt|Oni Grunt|None|Unit|2|{F}|True|False|False|False|False|images/set7/Oni_Grunt.png|1
 7-Earth Elemental|Earth Elemental|None|Unit|2|{T}{T}{T}|False|True|False|False|False|images/set7/Earth_Elemental.png|1
-7-Luckbreaker Gryffyn|Luckbreaker Gryffyn|None|Unit|0|{J}|False|False|True|False|False|images/set7/Luckbreaker_Gryffyn.png|1
+7-Pacify|Pacify|None|Curse|0|{J}|False|False|True|False|False|images/set7/Pacify.png|1
 7-Wind Elemental|Wind Elemental|None|Unit|2|{J}{J}{J}|False|False|True|False|False|images/set7/Wind_Elemental.png|1
+7-Luckbreaker Gryffyn|Luckbreaker Gryffyn|None|Unit|3|{J}|False|False|True|False|False|images/set7/Luckbreaker_Gryffyn.png|1
 7-Ice Elemental|Ice Elemental|None|Unit|2|{P}{P}{P}|False|False|False|True|False|images/set7/Ice_Elemental.png|1
 7-Living Wave|Living Wave|None|Unit|4|{P}|False|False|False|True|False|images/set7/Living_Wave.png|1
 7-Death Elemental|Death Elemental|None|Unit|2|{S}{S}{S}|False|False|False|False|True|images/set7/Death_Elemental.png|1
@@ -1896,7 +1897,7 @@
 7-Totemite Pup|Totemite Pup|None|Unit|1|{F}{T}|True|True|False|False|False|images/set7/Totemite_Pup.png|1
 7-Mark of the Forge|Mark of the Forge|None|Weapon|1|{F}{J}|True|False|True|False|False|images/set7/Mark_of_the_Forge.png|1
 7-Xultan Cultist|Xultan Cultist|None|Unit|1|{T}{S}|False|True|False|False|True|images/set7/Xultan_Cultist.png|1
-7-Curse of Loneliness|Curse of Loneliness|None|Curse|4|{J}{J}{P}|False|False|True|True|False|images/set7/Curse_of_Loneliness.png|1
+7-Curse of Loneliness|Curse of Loneliness|None|Cursed Relic|4|{J}{J}{P}|False|False|True|True|False|images/set7/Curse_of_Loneliness.png|1
 7-Raven|Raven|None|Unit|1|{P}{S}|False|False|False|True|True|images/set7/Raven.png|1
 7-Nakova & Molot|Nakova & Molot|None|Unit|10|{F}{F}{P}{P}{S}{S}|True|False|False|True|True|images/set7/Nakova_&_Molot.png|1
 7-Varret the Mighty|Varret the Mighty|None|Unit|2||False|False|False|False|False|images/set7/Varret_the_Mighty.png|1
@@ -1904,7 +1905,7 @@
 7-Varret the Wise|Varret the Wise|None|Unit|2||False|False|False|False|False|images/set7/Varret_the_Wise.png|1
 7-1|Emblem of Shavka|Rare|Power|0|{F}|True|False|False|False|False|images/set7/Emblem_of_Shavka.png|1
 7-2|Akko, Inspired Artist|Legendary|Unit|1|{F}|True|False|False|False|False|images/set7/Akko,_Inspired_Artist.png|1
-7-3|Edict of Shavka|Uncommon|Spell|1|{F}|True|False|False|False|False|images/set7/Edict_of_Shavka.png|1
+7-3|Edict of Shavka|Uncommon|Spell|1|{F}{F}|True|False|False|False|False|images/set7/Edict_of_Shavka.png|1
 7-4|Breath of Voprex|Common|Fast Spell|2|{F}|True|False|False|False|False|images/set7/Breath_of_Voprex.png|1
 7-5|Desperate Gambit|Common|Fast Spell|2|{F}|True|False|False|False|False|images/set7/Desperate_Gambit.png|1
 7-6|Shavka Evangel|Common|Unit|2|{F}{F}|True|False|False|False|False|images/set7/Shavka_Evangel.png|1
@@ -2011,7 +2012,7 @@
 7-107|Blitrok, Linrei's Listener|Legendary|Unit|4|{P}{P}{P}|False|False|False|True|False|images/set7/Blitrok,_Linrei's_Listener.png|1
 7-108|Daring Gryffyn|Rare|Unit|4|{P}{P}|False|False|False|True|False|images/set7/Daring_Gryffyn.png|1
 7-109|Fearstoker Raven|Uncommon|Unit|4|{P}|False|False|False|True|False|images/set7/Fearstoker_Raven.png|1
-7-110|Inspired Prank|Rare|Spell|4|{P}|False|False|False|True|False|images/set7/Inspired_Prank.png|1
+7-110|Inspired Prank|Rare|Spell|3|{P}|False|False|False|True|False|images/set7/Inspired_Prank.png|1
 7-111|Reverberating Strike|Common|Fast Spell|4|{P}|False|False|False|True|False|images/set7/Reverberating_Strike.png|1
 7-112|Tidal Forces|Rare|Cursed Relic|4|{P}{P}|False|False|False|True|False|images/set7/Tidal_Forces.png|1
 7-113|Yeti Traditionalist|Common|Unit|4|{P}{P}|False|False|False|True|False|images/set7/Yeti_Traditionalist.png|1
@@ -2087,7 +2088,7 @@
 7-183|Ila & Mizo|Rare|Unit|5|{T}{T}{P}{P}|False|True|False|True|False|images/set7/Ila_&_Mizo.png|1
 7-184|Xenan Insignia|Uncommon|Power|0|{T}{S}|False|True|False|False|True|images/set7/Xenan_Insignia.png|1
 7-185|Nahid's Faithful|Common|Unit|1|{T}{S}|False|True|False|False|True|images/set7/Nahid's_Faithful.png|1
-7-186|Worthy Cause|Rare|Fast Spell|1|{T}{S}|False|True|False|False|True|images/set7/Worthy_Cause.png|1
+7-186|Worthy Cause|Rare|Fast Spell|2|{T}{S}|False|True|False|False|True|images/set7/Worthy_Cause.png|1
 7-187|Nahid's Choice|Uncommon|Spell|2|{T}{S}|False|True|False|False|True|images/set7/Nahid's_Choice.png|1
 7-188|Zhen-Zu, Hand of Nahid|Rare|Unit|2|{T}{S}|False|True|False|False|True|images/set7/Zhen-Zu,_Hand_of_Nahid.png|1
 7-189|Nahid, the Immortal|Legendary|Unit|7|{T}{T}{T}{S}{S}{S}|False|True|False|False|True|images/set7/Nahid,_the_Immortal.png|1
@@ -2117,6 +2118,8 @@
 7-213|Varret, Hero-in-Training|Legendary|Unit|2||False|False|False|False|False|images/set7/Varret,_Hero-in-Training.png|1
 7-214|Sword of Judgement|Uncommon|Weapon|4||False|False|False|False|False|images/set7/Sword_of_Judgement.png|1
 7-320|Verro, Banished Inquisitor|Promo|Unit|3|{S}{S}|False|False|False|False|True|images/set7/Verro,_Banished_Inquisitor.png|1
+7-321|Dracowitch Razca|Promo|Unit|2|{F}{S}|True|False|False|False|True|images/set7/Dracowitch_Razca.png|1
+7-322|Yorja, The Tale Keeper|Promo|Unit|2|{P}|False|False|False|True|False|images/set7/Yorja,_The_Tale_Keeper.png|1
 1001-Honed Blade|Honed Blade|None|Relic Weapon|5|{J}|False|False|True|False|False|images/set1001/Honed_Blade.png|1
 1001-1|Praxis Outlaw|Uncommon|Unit|3|{F}|True|False|False|False|False|images/set1001/Praxis_Outlaw.png|1
 1001-2|Bait|Rare|Unit|5|{F}{F}|True|False|False|False|False|images/set1001/Bait.png|1
