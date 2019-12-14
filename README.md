@@ -54,3 +54,7 @@ Added saveable data arrays for the formats and sets.
 Added menues, and a way to add formats and sets.
 Sets must have at least one card of each faction, and if being used as a regular set, needs at least 1 legendary, 1 rare, 3 uncommons, and 9 commons.
 Added Set 7b, and updated curated pick amounts, to reflect in-game rates.
+
+### Version 1.41 ###
+
+Fixed the boosed rate, so that it was actually acurate. Previously it was +1 as much.
