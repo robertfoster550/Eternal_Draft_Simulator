@@ -58,3 +58,4 @@ Added Set 7b, and updated curated pick amounts, to reflect in-game rates.
 ### Version 1.41 ###
 
 Fixed the boosed rate, so that it was actually acurate. Previously it was +1 as much.
+Also added a shortcut icon.
