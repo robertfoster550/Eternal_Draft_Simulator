@@ -59,3 +59,8 @@ Added Set 7b, and updated curated pick amounts, to reflect in-game rates.
 
 Fixed the boosed rate, so that it was actually acurate. Previously it was +1 as much.
 Also added a shortcut icon.
+
+### Version 1.42 ###
+
+Fixed the program, so that it would run.
+Added 'Promises by Firelight' cards.
