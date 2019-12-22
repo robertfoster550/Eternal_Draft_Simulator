@@ -61,7 +61,7 @@
 1-4|Heavy Axe|Common|Weapon|1|{F}|True|False|False|False|False|images/set1/Heavy_Axe.png|1
 1-5|Grenadin Drone|Common|Unit|1|{F}|True|False|False|False|False|images/set1/Grenadin_Drone.png|1
 1-6|Light the Fuse|Legendary|Spell|1|{F}|True|False|False|False|False|images/set1/Light_the_Fuse.png|1
-1-8|Torch|Common|Fast Spell|1|{F}|True|False|False|False|False|images/set1/Torch.png|1
+1-8|Torch|Common|Spell|1|{F}|True|False|False|False|False|images/set1/Torch.png|1
 1-9|Frontier Jito|Rare|Unit|2|{F}|True|False|False|False|False|images/set1/Frontier_Jito.png|1
 1-10|Temper|Common|Fast Spell|1|{F}|True|False|False|False|False|images/set1/Temper.png|1
 1-11|Ruthless Stranger|Uncommon|Unit|1|{F}|True|False|False|False|False|images/set1/Ruthless_Stranger.png|1
@@ -668,7 +668,7 @@
 2-180|Talir's Choice|Uncommon|Spell|5|{F}{T}|True|True|False|False|False|images/set2/Talir's_Choice.png|1
 2-181|Shatterglass Mage|Rare|Unit|5|{F}{T}|True|True|False|False|False|images/set2/Shatterglass_Mage.png|1
 2-182|Workshop Forge|Rare|Relic|5|{F}{T}|True|True|False|False|False|images/set2/Workshop_Forge.png|1
-2-183|Heart of the Vault|Legendary|Unit|6|{F}{F}{F}{T}{T}{T}|True|True|False|False|False|images/set2/Heart_of_the_Vault.png|1
+2-183|Heart of the Vault|Legendary|Unit|7|{F}{F}{F}{T}{T}{T}|True|True|False|False|False|images/set2/Heart_of_the_Vault.png|1
 2-184|Sandglass Sentinel|Common|Unit|7|{F}{T}|True|True|False|False|False|images/set2/Sandglass_Sentinel.png|1
 2-185|Moment of Creation|Legendary|Spell|7|{F}{F}{T}{T}|True|True|False|False|False|images/set2/Moment_of_Creation.png|1
 2-186|Skycrag Banner|Common|Power|0|{F}{P}|True|False|False|True|False|images/set2/Skycrag_Banner.png|1
@@ -2235,7 +2235,7 @@
 1005-14|Flexible Familiar|Uncommon|Unit|1|{P}|False|False|False|True|False|images/set1005/Flexible_Familiar.png|1
 1005-15|Honor of Claws|Uncommon|Spell|4|{P}|False|False|False|True|False|images/set1005/Honor_of_Claws.png|1
 1005-16|The Winter Crown|Rare|Relic|4|{P}{P}|False|False|False|True|False|images/set1005/The_Winter_Crown.png|1
-1005-17|Desecrate|Uncommon|Spell|2|{S}{S}|False|False|False|False|True|images/set1005/Desecrate.png|1
+1005-17|Desecrate|Uncommon|Fast Spell|3|{S}{S}|False|False|False|False|True|images/set1005/Desecrate.png|1
 1005-18|Ponysnatcher|Rare|Unit|2|{S}{S}|False|False|False|False|True|images/set1005/Ponysnatcher.png|1
 1005-19|Star-Reader's Blade|Uncommon|Weapon|3|{S}|False|False|False|False|True|images/set1005/Star-Reader's_Blade.png|1
 1005-20|Profane Censer|Rare|Cursed Relic|5|{S}{S}|False|False|False|False|True|images/set1005/Profane_Censer.png|1
@@ -2265,3 +2265,25 @@
 1006-18|Frontier Surveyor|Rare|Unit|5|{S}{S}|False|False|False|False|True|images/set1006/Frontier_Surveyor.png|1
 1006-19|Debtor's Shackles|Uncommon|Weapon|5|{S}{S}|False|False|False|False|True|images/set1006/Debtor's_Shackles.png|1
 1006-20|Uldra, Veilripper|Legendary|Unit|6|{S}{S}|False|False|False|False|True|images/set1006/Uldra,_Veilripper.png|1
+1007-Shavka's Song|Shavka's Song|None|Spell|2|{F}{F}|True|False|False|False|False|images/set1007/Shavka's_Song.png|1
+1007-1|Cinder Clutch|Rare|Spell|1|{F}|True|False|False|False|False|images/set1007/Cinder_Clutch.png|1
+1007-2|Endra, Champion of Shavka|Legendary|Unit|2|{F}{F}|True|False|False|False|False|images/set1007/Endra,_Champion_of_Shavka.png|1
+1007-3|Ixtol's Pendant|Rare|Relic|2|{T}|False|True|False|False|False|images/set1007/Ixtol's_Pendant.png|1
+1007-4|Ixtol, Champion of Grodov|Legendary|Unit|6|{T}{T}{T}|False|True|False|False|False|images/set1007/Ixtol,_Champion_of_Grodov.png|1
+1007-5|Aali, Champion of Kodosh|Legendary|Unit|3|{J}{J}|False|False|True|False|False|images/set1007/Aali,_Champion_of_Kodosh.png|1
+1007-6|Solburst Scimitar|Rare|Relic Weapon|5|{J}{J}|False|False|True|False|False|images/set1007/Solburst_Scimitar.png|1
+1007-7|Linrei's Protection|Uncommon|Fast Spell|3|{P}|False|False|False|True|False|images/set1007/Linrei's_Protection.png|1
+1007-8|Lys, Champion of Linrei|Legendary|Unit|6|{P}{P}{P}|False|False|False|True|False|images/set1007/Lys,_Champion_of_Linrei.png|1
+1007-9|Eremot's Designs|Rare|Spell|2|{S}|False|False|False|False|True|images/set1007/Eremot's_Designs.png|1
+1007-10|Kuro, Champion of Makkar|Legendary|Unit|3|{S}{S}|False|False|False|False|True|images/set1007/Kuro,_Champion_of_Makkar.png|1
+1007-11|Solwatcher Tota|Rare|Unit|4|{F}{T}|True|True|False|False|False|images/set1007/Solwatcher_Tota.png|1
+1007-12|Zealous Artisan|Rare|Unit|5|{F}{F}{J}{J}|True|False|True|False|False|images/set1007/Zealous_Artisan.png|1
+1007-13|Spitflame Draconus|Rare|Unit|6|{F}{F}{P}{P}|True|False|False|True|False|images/set1007/Spitflame_Draconus.png|1
+1007-14|Dakus, Ancient Flame|Rare|Unit|4|{F}{S}|True|False|False|False|True|images/set1007/Dakus,_Ancient_Flame.png|1
+1007-15|Harga, Armory Warden|Rare|Unit|3|{T}{J}|False|True|True|False|False|images/set1007/Harga,_Armory_Warden.png|1
+1007-16|Stormtamer's Mount|Rare|Unit|2|{T}{P}|False|True|False|True|False|images/set1007/Stormtamer's_Mount.png|1
+1007-17|Sunset Stone|Rare|Relic|3|{T}{S}|False|True|False|False|True|images/set1007/Sunset_Stone.png|1
+1007-18|Archgryffyn Patriarch|Rare|Unit|5|{J}{J}{P}{P}|False|False|True|True|False|images/set1007/Archgryffyn_Patriarch.png|1
+1007-19|Shattered Hopes|Uncommon|Spell|1|{J}{S}|False|False|True|False|True|images/set1007/Shattered_Hopes.png|1
+1007-20|Tome of Horrors|Rare|Relic|2|{P}{S}|False|False|False|True|True|images/set1007/Tome_of_Horrors.png|1
+1007-21|Nightmare Prism|Rare|Relic|1||False|False|False|False|False|images/set1007/Nightmare_Prism.png|1
