@@ -57,7 +57,7 @@
 1-Stone Cudgel|Stone Cudgel|None|Weapon|1||False|False|False|False|False|images/set1/Stone_Cudgel.png|1
 1-1|Fire Sigil|None|Power|0|{F}|True|False|False|False|False|images/set1/Fire_Sigil.png|1
 1-2|Flame Blast|Uncommon|Spell|1|{F}{F}{F}|True|False|False|False|False|images/set1/Flame_Blast.png|1
-1-3|Charchain Flail|Rare|Relic Weapon|2|{F}{F}|True|False|False|False|False|images/set1/Charchain_Flail.png|1
+1-3|Charchain Flail|Rare|Relic Weapon|1|{F}{F}|True|False|False|False|False|images/set1/Charchain_Flail.png|1
 1-4|Heavy Axe|Common|Weapon|1|{F}|True|False|False|False|False|images/set1/Heavy_Axe.png|1
 1-5|Grenadin Drone|Common|Unit|1|{F}|True|False|False|False|False|images/set1/Grenadin_Drone.png|1
 1-6|Light the Fuse|Legendary|Spell|1|{F}|True|False|False|False|False|images/set1/Light_the_Fuse.png|1
@@ -166,7 +166,7 @@
 1-115|Lumen Defender|Uncommon|Unit|5|{T}|False|True|False|False|False|images/set1/Lumen_Defender.png|1
 1-116|Mystic Ascendant|Legendary|Unit|6|{T}|False|True|False|False|False|images/set1/Mystic_Ascendant.png|1
 1-117|Lumen Shepherd|Uncommon|Unit|6|{T}|False|True|False|False|False|images/set1/Lumen_Shepherd.png|1
-1-118|Predatory Carnosaur|Rare|Unit|7|{T}{T}{T}|False|True|False|False|False|images/set1/Predatory_Carnosaur.png|1
+1-118|Predatory Carnosaur|Rare|Unit|6|{T}{T}{T}|False|True|False|False|False|images/set1/Predatory_Carnosaur.png|1
 1-119|Ancient Terrazon|Legendary|Unit|7|{T}{T}{T}|False|True|False|False|False|images/set1/Ancient_Terrazon.png|1
 1-120|Dormant Sentinel|Common|Unit|7|{T}{T}|False|True|False|False|False|images/set1/Dormant_Sentinel.png|1
 1-121|Hall of Lost Kings|Rare|Spell|7|{T}{T}|False|True|False|False|False|images/set1/Hall_of_Lost_Kings.png|1
@@ -211,7 +211,7 @@
 1-160|Combrei Magister|Uncommon|Unit|5|{J}|False|False|True|False|False|images/set1/Combrei_Magister.png|1
 1-162|Stalwart Shield|Common|Weapon|4|{J}|False|False|True|False|False|images/set1/Stalwart_Shield.png|1
 1-163|Armorsmith|Uncommon|Unit|4|{J}|False|False|True|False|False|images/set1/Armorsmith.png|1
-1-164|Treasury Gate|Legendary|Relic|4|{J}|False|False|True|False|False|images/set1/Treasury_Gate.png|1
+1-164|Treasury Gate|Legendary|Relic|3|{J}|False|False|True|False|False|images/set1/Treasury_Gate.png|1
 1-165|Mark of Shame|Uncommon|Curse|3|{J}|False|False|True|False|False|images/set1/Mark_of_Shame.png|1
 1-166|Auric Runehammer|Rare|Relic Weapon|4|{J}{J}|False|False|True|False|False|images/set1/Auric_Runehammer.png|1
 1-167|Silverwing Avenger|Uncommon|Unit|4|{J}{J}|False|False|True|False|False|images/set1/Silverwing_Avenger.png|1
@@ -254,7 +254,7 @@
 1-207|Second Sight|Common|Fast Spell|2|{P}|False|False|False|True|False|images/set1/Second_Sight.png|1
 1-208|Skysnapper|Common|Unit|3|{P}|False|False|False|True|False|images/set1/Skysnapper.png|1
 1-209|Flash Freeze|Common|Fast Spell|3|{P}|False|False|False|True|False|images/set1/Flash_Freeze.png|1
-1-210|Eye of Winter|Rare|Relic|3|{P}|False|False|False|True|False|images/set1/Eye_of_Winter.png|1
+1-210|Eye of Winter|Rare|Relic|2|{P}|False|False|False|True|False|images/set1/Eye_of_Winter.png|1
 1-211|Polymorph|Uncommon|Spell|3|{P}|False|False|False|True|False|images/set1/Polymorph.png|1
 1-212|Cobalt Acolyte|Common|Unit|3|{P}|False|False|False|True|False|images/set1/Cobalt_Acolyte.png|1
 1-213|Scheme|Common|Spell|3|{S}|False|False|False|False|True|images/set1/Scheme.png|1
@@ -409,7 +409,7 @@
 1-371|Champion of Cunning|Rare|Unit|5|{P}{S}|False|False|False|True|True|images/set1/Champion_of_Cunning.png|1
 1-372|Grim Stranger|Rare|Unit|2|{P}{S}|False|False|False|True|True|images/set1/Grim_Stranger.png|1
 1-373|Spell Swipe|Rare|Fast Spell|5|{P}{S}|False|False|False|True|True|images/set1/Spell_Swipe.png|1
-1-374|Haunting Scream|Uncommon|Spell|2|{P}{S}|False|False|False|True|True|images/set1/Haunting_Scream.png|1
+1-374|Haunting Scream|Uncommon|Spell|3|{P}{S}|False|False|False|True|True|images/set1/Haunting_Scream.png|1
 1-375|Gorgon Fanatic|Uncommon|Unit|3|{P}{S}|False|False|False|True|True|images/set1/Gorgon_Fanatic.png|1
 1-377|Gorgon Swiftblade|Common|Unit|2|{P}{S}|False|False|False|True|True|images/set1/Gorgon_Swiftblade.png|1
 1-378|Midnight Gale|Legendary|Unit|3|{P}{P}{S}{S}|False|False|False|True|True|images/set1/Midnight_Gale.png|1
@@ -682,7 +682,7 @@
 2-194|Mortar|Common|Fast Spell|4|{F}{P}|True|False|False|True|False|images/set2/Mortar.png|1
 2-195|Storm Glider|Uncommon|Unit|4|{F}{P}|True|False|False|True|False|images/set2/Storm_Glider.png|1
 2-196|Towering Stranger|Rare|Unit|6|{F}{P}|True|False|False|True|False|images/set2/Towering_Stranger.png|1
-2-197|Knucklebones|Legendary|Relic|7|{F}{P}|True|False|False|True|False|images/set2/Knucklebones.png|1
+2-197|Knucklebones|Legendary|Relic|6|{F}{P}|True|False|False|True|False|images/set2/Knucklebones.png|1
 2-198|Topaz Drake|Common|Unit|7|{F}{P}|True|False|False|True|False|images/set2/Topaz_Drake.png|1
 2-199|Molot & Nakova|Legendary|Unit|8|{F}{F}{F}{P}{P}{P}|True|False|False|True|False|images/set2/Molot_&_Nakova.png|1
 2-200|Decimation|Rare|Spell|10|{F}{F}{P}{P}|True|False|False|True|False|images/set2/Decimation.png|1
@@ -837,7 +837,7 @@
 3-78|Insistent Automaton|Uncommon|Unit|4|{T}|False|True|False|False|False|images/set3/Insistent_Automaton.png|1
 3-79|Lost in the Mist|Common|Spell|4|{T}|False|True|False|False|False|images/set3/Lost_in_the_Mist.png|1
 3-80|Lumen Reclaimer|Legendary|Unit|4|{T}{T}|False|True|False|False|False|images/set3/Lumen_Reclaimer.png|1
-3-81|Sandspitter|Rare|Unit|4|{T}|False|True|False|False|False|images/set3/Sandspitter.png|1
+3-81|Sandspitter|Rare|Unit|3|{T}{T}|False|True|False|False|False|images/set3/Sandspitter.png|1
 3-82|First Watch|Uncommon|Spell|5|{T}|False|True|False|False|False|images/set3/First_Watch.png|1
 3-83|Fishing Dinoch|Common|Unit|5|{T}|False|True|False|False|False|images/set3/Fishing_Dinoch.png|1
 3-84|Frenzied Omnivore|Uncommon|Unit|5|{T}{T}|False|True|False|False|False|images/set3/Frenzied_Omnivore.png|1
@@ -881,7 +881,7 @@
 3-122|Unseen Commando|Rare|Unit|3|{J}{J}|False|False|True|False|False|images/set3/Unseen_Commando.png|1
 3-123|Valkyrie Cadet|Uncommon|Unit|3|{J}|False|False|True|False|False|images/set3/Valkyrie_Cadet.png|1
 3-124|Valkyrie Justiciar|Rare|Unit|3|{J}|False|False|True|False|False|images/set3/Valkyrie_Justiciar.png|1
-3-125|Bisma, Revered Elder|Rare|Unit|4|{J}{J}|False|False|True|False|False|images/set3/Bisma,_Revered_Elder.png|1
+3-125|Bisma, Revered Elder|Rare|Unit|3|{J}{J}|False|False|True|False|False|images/set3/Bisma,_Revered_Elder.png|1
 3-126|Caltrops|Rare|Curse|4|{J}{J}|False|False|True|False|False|images/set3/Caltrops.png|1
 3-127|Curse of Taxation|Uncommon|Cursed Relic|4|{J}|False|False|True|False|False|images/set3/Curse_of_Taxation.png|1
 3-128|Ground Crew|Uncommon|Unit|4|{J}|False|False|True|False|False|images/set3/Ground_Crew.png|1
@@ -940,7 +940,7 @@
 3-181|Freewing Glider|Uncommon|Weapon|4|{P}|False|False|False|True|False|images/set3/Freewing_Glider.png|1
 3-182|Meditation Trainer|Uncommon|Unit|4|{P}|False|False|False|True|False|images/set3/Meditation_Trainer.png|1
 3-183|Nocturnal Kyrex|Common|Unit|4|{P}|False|False|False|True|False|images/set3/Nocturnal_Kyrex.png|1
-3-184|Regression|Rare|Curse|4|{P}|False|False|False|True|False|images/set3/Regression.png|1
+3-184|Regression|Rare|Curse|2|{P}|False|False|False|True|False|images/set3/Regression.png|1
 3-185|Slushdumper|Uncommon|Unit|4|{P}|False|False|False|True|False|images/set3/Slushdumper.png|1
 3-186|Thudrock, Arctic Artisan|Legendary|Unit|4|{P}{P}|False|False|False|True|False|images/set3/Thudrock,_Arctic_Artisan.png|1
 3-187|Jotun Feast-Caller|Legendary|Unit|5|{P}{P}{P}|False|False|False|True|False|images/set3/Jotun_Feast-Caller.png|1
@@ -1127,7 +1127,7 @@
 4-66|Sandglass Parma|Common|Weapon|2|{T}|False|True|False|False|False|images/set4/Sandglass_Parma.png|1
 4-67|Teacher of Humility|Legendary|Unit|2|{T}{T}|False|True|False|False|False|images/set4/Teacher_of_Humility.png|1
 4-68|Amaran Stinger|Rare|Unit|3|{T}|False|True|False|False|False|images/set4/Amaran_Stinger.png|1
-4-69|Arcanum Hourglass|Rare|Relic|3|{T}|False|True|False|False|False|images/set4/Arcanum_Hourglass.png|1
+4-69|Arcanum Hourglass|Rare|Relic|2|{T}|False|True|False|False|False|images/set4/Arcanum_Hourglass.png|1
 4-70|Auralian Merchant|Rare|Unit|3|{T}|False|True|False|False|False|images/set4/Auralian_Merchant.png|1
 4-71|Deft Strike|Common|Spell|3|{T}|False|True|False|False|False|images/set4/Deft_Strike.png|1
 4-72|Gravetender|Common|Unit|3|{T}|False|True|False|False|False|images/set4/Gravetender.png|1
@@ -1345,7 +1345,7 @@
 4-310|Yushkov, the Usurper|Promo|Unit|4|{F}{F}{F}|True|False|False|False|False|images/set4/Yushkov,_the_Usurper.png|1
 5-Fire Animated Sentinel|Fire Animated Sentinel|None|Unit|0|{F}{F}|True|False|False|False|False|images/set5/Fire_Animated_Sentinel.png|1
 5-Wildcat|Wildcat|None|Unit|1|{F}|True|False|False|False|False|images/set5/Wildcat.png|1
-5-Molten Phoenix|Molten Phoenix|None|Unit|3|{F}|True|False|False|False|False|images/set5/Molten_Phoenix.png|1
+5-Molten Phoenix|Molten Phoenix|None|Unit|2|{F}|True|False|False|False|False|images/set5/Molten_Phoenix.png|1
 5-Poacher's Rifle|Poacher's Rifle|None|Weapon|5|{F}{F}|True|False|False|False|False|images/set5/Poacher's_Rifle.png|1
 5-Time Animated Sentinel|Time Animated Sentinel|None|Unit|0|{T}{T}|False|True|False|False|False|images/set5/Time_Animated_Sentinel.png|1
 5-Viper Fang|Viper Fang|None|Weapon|2|{T}|False|True|False|False|False|images/set5/Viper_Fang.png|1
@@ -1383,11 +1383,11 @@
 5-15|Grandfather's Axe|Common|Weapon|3|{F}|True|False|False|False|False|images/set5/Grandfather's_Axe.png|1
 5-16|Lazy Firemane|Common|Unit|3|{F}|True|False|False|False|False|images/set5/Lazy_Firemane.png|1
 5-17|Nika, the Freescaler|Legendary|Unit|3|{F}{F}{F}|True|False|False|False|False|images/set5/Nika,_the_Freescaler.png|1
-5-18|Phoenix Stone|Legendary|Relic|3|{F}|True|False|False|False|False|images/set5/Phoenix_Stone.png|1
+5-18|Phoenix Stone|Legendary|Relic|2|{F}|True|False|False|False|False|images/set5/Phoenix_Stone.png|1
 5-19|Shiftstone Processor|Rare|Relic|3|{F}|True|False|False|False|False|images/set5/Shiftstone_Processor.png|1
 5-20|Flamebrewer|Legendary|Unit|4|{F}{F}|True|False|False|False|False|images/set5/Flamebrewer.png|1
 5-21|Bladerang|Legendary|Relic Weapon|4|{F}{F}{F}{F}|True|False|False|False|False|images/set5/Bladerang.png|1
-5-22|Gilded Flames|Uncommon|Fast Spell|4|{F}|True|False|False|False|False|images/set5/Gilded_Flames.png|1
+5-22|Gilded Flames|Uncommon|Fast Spell|3|{F}|True|False|False|False|False|images/set5/Gilded_Flames.png|1
 5-23|Hardsight Cyclops|Uncommon|Unit|4|{F}{F}|True|False|False|False|False|images/set5/Hardsight_Cyclops.png|1
 5-24|Ruckus Rouser|Uncommon|Unit|4|{F}|True|False|False|False|False|images/set5/Ruckus_Rouser.png|1
 5-25|Shingane Firebrand|Rare|Unit|4|{F}{F}|True|False|False|False|False|images/set5/Shingane_Firebrand.png|1
@@ -1634,7 +1634,6 @@
 6-Pulsing Blob|Pulsing Blob|None|Unit|3||False|False|False|False|False|images/set6/Pulsing_Blob.png|1
 6-Ravenous Wurm|Ravenous Wurm|None|Unit|3|{T}|False|True|False|False|False|images/set6/Ravenous_Wurm.png|1
 6-Alarming Findings|Alarming Findings|None|Spell|7|{T}{T}|False|True|False|False|False|images/set6/Alarming_Findings.png|1
-6-Timidity|Timidity|None|Curse|2|{J}|False|False|True|False|False|images/set6/Timidity.png|1
 6-Emerald Incarnation|Emerald Incarnation|None|Unit|3|{J}|False|False|True|False|False|images/set6/Emerald_Incarnation.png|1
 6-Curse of Provocation|Curse of Provocation|None|Cursed Relic|5|{J}|False|False|True|False|False|images/set6/Curse_of_Provocation.png|1
 6-Kesava, Trueheart|Kesava, Trueheart|None|Unit|5|{J}{J}|False|False|True|False|False|images/set6/Kesava,_Trueheart.png|1
@@ -1905,7 +1904,7 @@
 7-Varret the Wise|Varret the Wise|None|Unit|2||False|False|False|False|False|images/set7/Varret_the_Wise.png|1
 7-1|Emblem of Shavka|Rare|Power|0|{F}|True|False|False|False|False|images/set7/Emblem_of_Shavka.png|1
 7-2|Akko, Inspired Artist|Legendary|Unit|1|{F}|True|False|False|False|False|images/set7/Akko,_Inspired_Artist.png|1
-7-3|Edict of Shavka|Uncommon|Spell|1|{F}{F}|True|False|False|False|False|images/set7/Edict_of_Shavka.png|1
+7-3|Edict of Shavka|Uncommon|Spell|2|{F}{F}|True|False|False|False|False|images/set7/Edict_of_Shavka.png|1
 7-4|Breath of Voprex|Common|Fast Spell|2|{F}|True|False|False|False|False|images/set7/Breath_of_Voprex.png|1
 7-5|Desperate Gambit|Common|Fast Spell|2|{F}|True|False|False|False|False|images/set7/Desperate_Gambit.png|1
 7-6|Shavka Evangel|Common|Unit|2|{F}{F}|True|False|False|False|False|images/set7/Shavka_Evangel.png|1
@@ -2120,6 +2119,237 @@
 7-320|Verro, Banished Inquisitor|Promo|Unit|3|{S}{S}|False|False|False|False|True|images/set7/Verro,_Banished_Inquisitor.png|1
 7-321|Dracowitch Razca|Promo|Unit|2|{F}{S}|True|False|False|False|True|images/set7/Dracowitch_Razca.png|1
 7-322|Yorja, The Tale Keeper|Promo|Unit|2|{P}|False|False|False|True|False|images/set7/Yorja,_The_Tale_Keeper.png|1
+7-323|The Merriest Mandrake|Promo|Unit|2|{T}{S}|False|True|False|False|True|images/set7/The_Merriest_Mandrake.png|1
+8-Kato Shade|Kato Shade|None|Unit|2|{F}|True|False|False|False|False|images/set8/Kato_Shade.png|1
+8-Markmaker Shade|Markmaker Shade|None|Unit|3|{F}|True|False|False|False|False|images/set8/Markmaker_Shade.png|1
+8-Bladecrafter Shade|Bladecrafter Shade|None|Unit|4|{F}{F}|True|False|False|False|False|images/set8/Bladecrafter_Shade.png|1
+8-Inferno Brood|Inferno Brood|None|Unit|5|{F}|True|False|False|False|False|images/set8/Inferno_Brood.png|1
+8-Hammerhand Shade|Hammerhand Shade|None|Unit|8|{F}{F}{F}{F}|True|False|False|False|False|images/set8/Hammerhand_Shade.png|1
+8-Tough Tota|Tough Tota|None|Unit|1|{T}|False|True|False|False|False|images/set8/Tough_Tota.png|1
+8-Rectifier Shade|Rectifier Shade|None|Unit|3|{T}|False|True|False|False|False|images/set8/Rectifier_Shade.png|1
+8-Gentle Grazer Shade|Gentle Grazer Shade|None|Unit|4|{T}{T}{T}|False|True|False|False|False|images/set8/Gentle_Grazer_Shade.png|1
+8-Corpsebloom Shade|Corpsebloom Shade|None|Unit|7|{T}{T}|False|True|False|False|False|images/set8/Corpsebloom_Shade.png|1
+8-Willbreaker Shade|Willbreaker Shade|None|Unit|2|{J}|False|False|True|False|False|images/set8/Willbreaker_Shade.png|1
+8-Jadehorn Shade|Jadehorn Shade|None|Unit|3|{J}{J}|False|False|True|False|False|images/set8/Jadehorn_Shade.png|1
+8-Purgedriver Shade|Purgedriver Shade|None|Unit|4|{J}{J}|False|False|True|False|False|images/set8/Purgedriver_Shade.png|1
+8-Camoni Shade|Camoni Shade|None|Unit|6|{J}{J}|False|False|True|False|False|images/set8/Camoni_Shade.png|1
+8-Tidal Elemental|Tidal Elemental|None|Unit|0|{P}|False|False|False|True|False|images/set8/Tidal_Elemental.png|1
+8-Highsky Lookout Shade|Highsky Lookout Shade|None|Unit|3|{P}{P}|False|False|False|True|False|images/set8/Highsky_Lookout_Shade.png|1
+8-Plagued Gryffyn Shade|Plagued Gryffyn Shade|None|Unit|4|{P}{P}|False|False|False|True|False|images/set8/Plagued_Gryffyn_Shade.png|1
+8-Vernal Mandrake Shade|Vernal Mandrake Shade|None|Unit|7|{P}{P}{P}|False|False|False|True|False|images/set8/Vernal_Mandrake_Shade.png|1
+8-Entranced Cultist Shade|Entranced Cultist Shade|None|Unit|1|{S}|False|False|False|False|True|images/set8/Entranced_Cultist_Shade.png|1
+8-Two-Face Shade|Two-Face Shade|None|Unit|2|{S}|False|False|False|False|True|images/set8/Two-Face_Shade.png|1
+8-Bloodwolf Shade|Bloodwolf Shade|None|Unit|3|{S}{S}|False|False|False|False|True|images/set8/Bloodwolf_Shade.png|1
+8-Feartracker Shade|Feartracker Shade|None|Unit|5|{S}{S}|False|False|False|False|True|images/set8/Feartracker_Shade.png|1
+8-Gladiator Brawler|Gladiator Brawler|None|Unit|8|{F}{T}|True|True|False|False|False|images/set8/Gladiator_Brawler.png|1
+8-Albon Shade|Albon Shade|None|Unit|5|{T}{T}{P}{P}|False|True|False|True|False|images/set8/Albon_Shade.png|1
+8-Possessed by Horrors|Possessed by Horrors|None|Cursed Relic|5|{F}{F}{T}{T}{S}{S}|True|True|False|False|True|images/set8/Possessed_by_Horrors.png|1
+8-Power Burst|Power Burst|None|Spell|0||False|False|False|False|False|images/set8/Power_Burst.png|1
+8-Unfamiliar Interloper Shade|Unfamiliar Interloper Shade|None|Unit|2||False|False|False|False|False|images/set8/Unfamiliar_Interloper_Shade.png|1
+8-1|Blazing Salvo|Rare|Fast Spell|1|{F}|True|False|False|False|False|images/set8/Blazing_Salvo.png|1
+8-2|Furyblade|Common|Relic Weapon|1|{F}|True|False|False|False|False|images/set8/Furyblade.png|1
+8-3|Kazuo, Melee Virtuoso|Rare|Unit|1|{F}|True|False|False|False|False|images/set8/Kazuo,_Melee_Virtuoso.png|1
+8-4|Kindling Carver|Uncommon|Unit|1|{F}|True|False|False|False|False|images/set8/Kindling_Carver.png|1
+8-5|Ruinous Burst|Common|Fast Spell|1|{F}|True|False|False|False|False|images/set8/Ruinous_Burst.png|1
+8-6|Covetous Stranger|Common|Unit|2|{F}|True|False|False|False|False|images/set8/Covetous_Stranger.png|1
+8-7|Kato, Arena Herald|Legendary|Unit|2|{F}|True|False|False|False|False|images/set8/Kato,_Arena_Herald.png|1
+8-8|Sear|Uncommon|Fast Spell|2|{F}|True|False|False|False|False|images/set8/Sear.png|1
+8-9|Soldrain Smithing|Common|Spell|2|{F}|True|False|False|False|False|images/set8/Soldrain_Smithing.png|1
+8-10|Tota Pioneer|Rare|Unit|2|{F}|True|False|False|False|False|images/set8/Tota_Pioneer.png|1
+8-11|Volatility|Legendary|Spell|2|{F}|True|False|False|False|False|images/set8/Volatility.png|1
+8-12|Yeti Cookmaster|Common|Unit|2|{F}|True|False|False|False|False|images/set8/Yeti_Cookmaster.png|1
+8-13|Assault Shield|Common|Relic Weapon|3|{F}|True|False|False|False|False|images/set8/Assault_Shield.png|1
+8-14|Burningcore Drake|Common|Unit|3|{F}{F}|True|False|False|False|False|images/set8/Burningcore_Drake.png|1
+8-15|Markmaker|Uncommon|Unit|3|{F}|True|False|False|False|False|images/set8/Markmaker.png|1
+8-16|Fire Conjuring|Uncommon|Fast Spell|3|{F}{F}|True|False|False|False|False|images/set8/Fire_Conjuring.png|1
+8-17|Shavka's Stranger|Legendary|Unit|7|{F}{F}|True|False|False|False|False|images/set8/Shavka's_Stranger.png|1
+8-18|Shavka's Lute|Legendary|Relic|3|{F}{F}|True|False|False|False|False|images/set8/Shavka's_Lute.png|1
+8-19|Touch of Force|Uncommon|Fast Spell|3|{F}|True|False|False|False|False|images/set8/Touch_of_Force.png|1
+8-20|Bladecrafter|Common|Unit|4|{F}{F}|True|False|False|False|False|images/set8/Bladecrafter.png|1
+8-21|Tattoo Dragon|Rare|Unit|4|{F}{F}|True|False|False|False|False|images/set8/Tattoo_Dragon.png|1
+8-22|Dancing Flame|Uncommon|Unit|5|{F}|True|False|False|False|False|images/set8/Dancing_Flame.png|1
+8-23|Inferno Zealot|Common|Unit|5|{F}|True|False|False|False|False|images/set8/Inferno_Zealot.png|1
+8-24|Thunder of Wings|Uncommon|Spell|5|{F}|True|False|False|False|False|images/set8/Thunder_of_Wings.png|1
+8-25|Midias, Leyline Dragon|Legendary|Unit|6|{F}{F}|True|False|False|False|False|images/set8/Midias,_Leyline_Dragon.png|1
+8-26|Stonepowder Bomber|Common|Unit|6|{F}{F}|True|False|False|False|False|images/set8/Stonepowder_Bomber.png|1
+8-27|Shugo's Hooked Sword|Uncommon|Relic Weapon|7|{F}{F}|True|False|False|False|False|images/set8/Shugo's_Hooked_Sword.png|1
+8-28|Hammerhand|Rare|Unit|8|{F}{F}{F}{F}|True|False|False|False|False|images/set8/Hammerhand.png|1
+8-29|Shavka's Embrace|Legendary|Relic Weapon|9|{F}{F}{F}|True|False|False|False|False|images/set8/Shavka's_Embrace.png|1
+8-30|Alluring Qirin|Legendary|Unit|1|{T}|False|True|False|False|False|images/set8/Alluring_Qirin.png|1
+8-31|Calibrate|Common|Spell|1|{T}|False|True|False|False|False|images/set8/Calibrate.png|1
+8-32|Crack the Earth|Rare|Fast Spell|1|{T}|False|True|False|False|False|images/set8/Crack_the_Earth.png|1
+8-33|Pause for Reflection|Common|Fast Spell|1|{T}|False|True|False|False|False|images/set8/Pause_for_Reflection.png|1
+8-34|Precision Plunge|Common|Spell|1|{T}|False|True|False|False|False|images/set8/Precision_Plunge.png|1
+8-35|Shield of the Line|Rare|Unit|1|{T}|False|True|False|False|False|images/set8/Shield_of_the_Line.png|1
+8-36|Sky Worshipper|Uncommon|Unit|1|{T}|False|True|False|False|False|images/set8/Sky_Worshipper.png|1
+8-37|Inner-Peace Ascendant|Uncommon|Unit|2|{T}|False|True|False|False|False|images/set8/Inner-Peace_Ascendant.png|1
+8-38|Lurking Raptors|Legendary|Unit|2|{T}|False|True|False|False|False|images/set8/Lurking_Raptors.png|1
+8-39|Magnificent Stranger|Common|Unit|2|{T}|False|True|False|False|False|images/set8/Magnificent_Stranger.png|1
+8-40|Platinum Qirin|Common|Unit|2|{T}|False|True|False|False|False|images/set8/Platinum_Qirin.png|1
+8-41|Shardbinder|Uncommon|Unit|2|{T}|False|True|False|False|False|images/set8/Shardbinder.png|1
+8-42|Touch of Battle|Uncommon|Fast Spell|2|{T}|False|True|False|False|False|images/set8/Touch_of_Battle.png|1
+8-43|Gravewatch Ancestor|Common|Unit|3|{T}|False|True|False|False|False|images/set8/Gravewatch_Ancestor.png|1
+8-44|Earth Conjuring|Uncommon|Fast Spell|3|{T}{T}|False|True|False|False|False|images/set8/Earth_Conjuring.png|1
+8-45|Humbug Nest|Common|Fast Spell|3|{T}{T}|False|True|False|False|False|images/set8/Humbug_Nest.png|1
+8-46|Rectifier|Common|Unit|3|{T}|False|True|False|False|False|images/set8/Rectifier.png|1
+8-47|Tota Circle|Legendary|Relic|3|{T}|False|True|False|False|False|images/set8/Tota_Circle.png|1
+8-48|Turn Back Time|Common|Spell|3|{T}|False|True|False|False|False|images/set8/Turn_Back_Time.png|1
+8-49|Waystone Gate|Uncommon|Relic|3|{T}|False|True|False|False|False|images/set8/Waystone_Gate.png|1
+8-50|Ancestral Oasis|Rare|Relic|4|{T}{T}|False|True|False|False|False|images/set8/Ancestral_Oasis.png|1
+8-51|Arcane Restraint|Rare|Cursed Relic|4|{T}|False|True|False|False|False|images/set8/Arcane_Restraint.png|1
+8-52|Gentle Grazer|Legendary|Unit|4|{T}{T}{T}|False|True|False|False|False|images/set8/Gentle_Grazer.png|1
+8-53|Grodov's Burden|Legendary|Relic|5|{T}{T}{T}|False|True|False|False|False|images/set8/Grodov's_Burden.png|1
+8-54|Grodov's Stranger|Legendary|Unit|6|{T}{T}|False|True|False|False|False|images/set8/Grodov's_Stranger.png|1
+8-55|Nahid's Distillation|Uncommon|Spell|6|{T}|False|True|False|False|False|images/set8/Nahid's_Distillation.png|1
+8-56|Sunset Enforcer|Common|Unit|6|{T}{T}|False|True|False|False|False|images/set8/Sunset_Enforcer.png|1
+8-57|Bhodi & Rox|Rare|Unit|7|{T}{T}|False|True|False|False|False|images/set8/Bhodi_&_Rox.png|1
+8-58|Corpsebloom|Uncommon|Unit|7|{T}{T}|False|True|False|False|False|images/set8/Corpsebloom.png|1
+8-59|Deafening Word|Rare|Fast Spell|1|{J}|False|False|True|False|False|images/set8/Deafening_Word.png|1
+8-60|Ensnare|Common|Fast Spell|1|{J}|False|False|True|False|False|images/set8/Ensnare.png|1
+8-61|Fearless Crescendo|Rare|Fast Spell|1|{J}|False|False|True|False|False|images/set8/Fearless_Crescendo.png|1
+8-62|Eloz, Nightmare General|Legendary|Unit|2|{J}{J}|False|False|True|False|False|images/set8/Eloz,_Nightmare_General.png|1
+8-63|Monument Curator|Uncommon|Unit|2|{J}|False|False|True|False|False|images/set8/Monument_Curator.png|1
+8-64|Outcast Elite|Uncommon|Unit|2|{J}|False|False|True|False|False|images/set8/Outcast_Elite.png|1
+8-65|Siege Provisions|Common|Relic|2|{J}|False|False|True|False|False|images/set8/Siege_Provisions.png|1
+8-66|Steely Stranger|Common|Unit|2|{J}|False|False|True|False|False|images/set8/Steely_Stranger.png|1
+8-67|Timidity|Uncommon|Curse|2|{J}|False|False|True|False|False|images/set8/Timidity.png|1
+8-68|Touch of Purity|Uncommon|Fast Spell|2|{J}|False|False|True|False|False|images/set8/Touch_of_Purity.png|1
+8-69|Willbreaker|Common|Unit|2|{J}|False|False|True|False|False|images/set8/Willbreaker.png|1
+8-70|Jadehorn|Rare|Unit|3|{J}{J}|False|False|True|False|False|images/set8/Jadehorn.png|1
+8-71|Kodosh's Stranger|Legendary|Unit|3|{J}{J}|False|False|True|False|False|images/set8/Kodosh's_Stranger.png|1
+8-72|Kodosh's Armor|Legendary|Relic|3|{J}{J}|False|False|True|False|False|images/set8/Kodosh's_Armor.png|1
+8-73|Wind Conjuring|Uncommon|Fast Spell|3|{J}{J}|False|False|True|False|False|images/set8/Wind_Conjuring.png|1
+8-74|Master's Blade|Rare|Weapon|3|{J}|False|False|True|False|False|images/set8/Master's_Blade.png|1
+8-75|Resounding Shockwave|Uncommon|Spell|3|{J}|False|False|True|False|False|images/set8/Resounding_Shockwave.png|1
+8-76|Sky King Storyteller|Common|Unit|3|{J}|False|False|True|False|False|images/set8/Sky_King_Storyteller.png|1
+8-77|Xulta Exile|Common|Unit|3|{J}|False|False|True|False|False|images/set8/Xulta_Exile.png|1
+8-78|Divebomb|Common|Fast Spell|4|{J}|False|False|True|False|False|images/set8/Divebomb.png|1
+8-79|Promising Pupil|Common|Unit|4|{J}|False|False|True|False|False|images/set8/Promising_Pupil.png|1
+8-80|Purgedriver|Rare|Unit|4|{J}{J}|False|False|True|False|False|images/set8/Purgedriver.png|1
+8-81|Xultan Arbalest|Uncommon|Relic Weapon|4|{J}{J}|False|False|True|False|False|images/set8/Xultan_Arbalest.png|1
+8-82|Emerald Maw|Legendary|Relic Weapon|5|{J}{J}{J}|False|False|True|False|False|images/set8/Emerald_Maw.png|1
+8-83|Enchanted Platemail|Common|Relic Weapon|5|{J}|False|False|True|False|False|images/set8/Enchanted_Platemail.png|1
+8-84|Rageheart Paladin|Common|Unit|5|{J}{J}|False|False|True|False|False|images/set8/Rageheart_Paladin.png|1
+8-85|Camoni, Dusk Rider|Legendary|Unit|6|{J}{J}|False|False|True|False|False|images/set8/Camoni,_Dusk_Rider.png|1
+8-86|Mithril Paladin|Uncommon|Unit|6|{J}{J}|False|False|True|False|False|images/set8/Mithril_Paladin.png|1
+8-87|Restrained Action|Rare|Cursed Relic|6|{J}|False|False|True|False|False|images/set8/Restrained_Action.png|1
+8-88|Nesting Raven|Common|Unit|1|{P}|False|False|False|True|False|images/set8/Nesting_Raven.png|1
+8-89|Transpose|Rare|Fast Spell|1|{P}|False|False|False|True|False|images/set8/Transpose.png|1
+8-90|Bookclub Yeti|Common|Unit|2|{P}|False|False|False|True|False|images/set8/Bookclub_Yeti.png|1
+8-91|Formbend|Rare|Spell|2|{P}|False|False|False|True|False|images/set8/Formbend.png|1
+8-92|Provoke the Dragons|Uncommon|Spell|2|{P}|False|False|False|True|False|images/set8/Provoke_the_Dragons.png|1
+8-93|Spellstorm Stranger|Common|Unit|3|{P}|False|False|False|True|False|images/set8/Spellstorm_Stranger.png|1
+8-94|Biting Winds|Common|Fast Spell|3|{P}|False|False|False|True|False|images/set8/Biting_Winds.png|1
+8-95|Bottled Storm|Uncommon|Relic|3|{P}|False|False|False|True|False|images/set8/Bottled_Storm.png|1
+8-96|Forlorn Gryffyn|Uncommon|Unit|3|{P}|False|False|False|True|False|images/set8/Forlorn_Gryffyn.png|1
+8-97|Highsky Lookout|Rare|Unit|3|{P}{P}|False|False|False|True|False|images/set8/Highsky_Lookout.png|1
+8-98|Water Conjuring|Uncommon|Fast Spell|3|{P}{P}|False|False|False|True|False|images/set8/Water_Conjuring.png|1
+8-99|Overlook Spotter|Common|Unit|2|{P}|False|False|False|True|False|images/set8/Overlook_Spotter.png|1
+8-100|Static Discharge|Common|Cursed Relic|3|{P}|False|False|False|True|False|images/set8/Static_Discharge.png|1
+8-101|Touch of Wild|Uncommon|Fast Spell|3|{P}|False|False|False|True|False|images/set8/Touch_of_Wild.png|1
+8-102|Brood of Eremot|Common|Unit|4|{P}{P}|False|False|False|True|False|images/set8/Brood_of_Eremot.png|1
+8-103|Brutal Frostlord|Rare|Unit|4|{P}{P}|False|False|False|True|False|images/set8/Brutal_Frostlord.png|1
+8-104|Linrei's Codex|Legendary|Relic|4|{P}{P}{P}|False|False|False|True|False|images/set8/Linrei's_Codex.png|1
+8-105|Plagued Gryffyn|Uncommon|Unit|4|{P}{P}|False|False|False|True|False|images/set8/Plagued_Gryffyn.png|1
+8-106|Runemarker|Common|Unit|4|{P}|False|False|False|True|False|images/set8/Runemarker.png|1
+8-107|Uelo, Sky Tactician|Legendary|Unit|4|{P}{P}|False|False|False|True|False|images/set8/Uelo,_Sky_Tactician.png|1
+8-108|Double Helix Drake|Common|Unit|5|{P}|False|False|False|True|False|images/set8/Double_Helix_Drake.png|1
+8-109|Linrei's Stranger|Legendary|Unit|5|{P}{P}|False|False|False|True|False|images/set8/Linrei's_Stranger.png|1
+8-110|Savage Incursion|Legendary|Spell|5|{P}{P}{P}|False|False|False|True|False|images/set8/Savage_Incursion.png|1
+8-111|Tainted Mark|Common|Cursed Relic|5|{P}|False|False|False|True|False|images/set8/Tainted_Mark.png|1
+8-112|Abyssal Scrying|Rare|Fast Spell|6|{P}{P}|False|False|False|True|False|images/set8/Abyssal_Scrying.png|1
+8-113|Frostbite Chrysalis|Uncommon|Unit|6|{P}{P}|False|False|False|True|False|images/set8/Frostbite_Chrysalis.png|1
+8-114|Linrei's Kiss|Uncommon|Spell|7|{P}|False|False|False|True|False|images/set8/Linrei's_Kiss.png|1
+8-115|Solar Blast|Legendary|Fast Spell|7|{P}{P}{P}{P}|False|False|False|True|False|images/set8/Solar_Blast.png|1
+8-116|Vernal Mandrake|Legendary|Unit|7|{P}{P}{P}|False|False|False|True|False|images/set8/Vernal_Mandrake.png|1
+8-117|Condemn|Rare|Fast Spell|1|{S}|False|False|False|False|True|images/set8/Condemn.png|1
+8-118|Contaminating Ritual|Common|Fast Spell|1|{S}|False|False|False|False|True|images/set8/Contaminating_Ritual.png|1
+8-119|Entranced Cultist|Common|Unit|1|{S}|False|False|False|False|True|images/set8/Entranced_Cultist.png|1
+8-120|Urgent Missive|Common|Fast Spell|1|{S}|False|False|False|False|True|images/set8/Urgent_Missive.png|1
+8-121|Damara, Deft Saboteur|Legendary|Unit|2|{S}|False|False|False|False|True|images/set8/Damara,_Deft_Saboteur.png|1
+8-122|Defile|Uncommon|Fast Spell|2|{S}|False|False|False|False|True|images/set8/Defile.png|1
+8-123|Makkar's Quiver|Legendary|Relic|2|{S}{S}|False|False|False|False|True|images/set8/Makkar's_Quiver.png|1
+8-124|Switchblade Deadeye|Common|Unit|2|{S}|False|False|False|False|True|images/set8/Switchblade_Deadeye.png|1
+8-125|Touch of Resilience|Uncommon|Fast Spell|2|{S}|False|False|False|False|True|images/set8/Touch_of_Resilience.png|1
+8-126|Two-Face|Uncommon|Unit|2|{S}|False|False|False|False|True|images/set8/Two-Face.png|1
+8-127|Fanatical Stranger|Common|Unit|3|{S}|False|False|False|False|True|images/set8/Fanatical_Stranger.png|1
+8-128|Felrauk's Infiltrator|Common|Unit|3|{S}{S}|False|False|False|False|True|images/set8/Felrauk's_Infiltrator.png|1
+8-129|Flamebathe Reformation|Rare|Relic|3|{S}|False|False|False|False|True|images/set8/Flamebathe_Reformation.png|1
+8-130|Bloodwolf|Rare|Unit|3|{S}{S}|False|False|False|False|True|images/set8/Bloodwolf.png|1
+8-131|Pack Conjuring|Uncommon|Fast Spell|3|{S}{S}|False|False|False|False|True|images/set8/Pack_Conjuring.png|1
+8-132|Skeletal Dragon|Common|Unit|3|{S}|False|False|False|False|True|images/set8/Skeletal_Dragon.png|1
+8-133|Triumphant Return|Common|Spell|3|{S}|False|False|False|False|True|images/set8/Triumphant_Return.png|1
+8-134|Unseen Longbow|Rare|Weapon|3|{S}{S}|False|False|False|False|True|images/set8/Unseen_Longbow.png|1
+8-135|Darkmask Stalker|Uncommon|Unit|4|{S}{S}|False|False|False|False|True|images/set8/Darkmask_Stalker.png|1
+8-136|Succumb|Common|Spell|4|{S}|False|False|False|False|True|images/set8/Succumb.png|1
+8-137|Feartracker|Uncommon|Unit|5|{S}{S}|False|False|False|False|True|images/set8/Feartracker.png|1
+8-138|Induce Madness|Legendary|Cursed Relic|5|{S}{S}{S}|False|False|False|False|True|images/set8/Induce_Madness.png|1
+8-139|Karvet, Redeemed|Legendary|Unit|5|{S}|False|False|False|False|True|images/set8/Karvet,_Redeemed.png|1
+8-140|Makkar's Stranger|Legendary|Unit|5|{S}{S}|False|False|False|False|True|images/set8/Makkar's_Stranger.png|1
+8-141|Mysterious Waystone|Uncommon|Cursed Relic|5|{S}{S}|False|False|False|False|True|images/set8/Mysterious_Waystone.png|1
+8-142|Aurapiercer|Rare|Unit|6|{S}{S}{S}|False|False|False|False|True|images/set8/Aurapiercer.png|1
+8-143|Dark Betrayal|Uncommon|Spell|6|{S}|False|False|False|False|True|images/set8/Dark_Betrayal.png|1
+8-144|Pale Rider's Timepiece|Legendary|Weapon|6|{S}{S}{S}{S}|False|False|False|False|True|images/set8/Pale_Rider's_Timepiece.png|1
+8-145|Spore-Spitter|Common|Unit|6|{S}{S}|False|False|False|False|True|images/set8/Spore-Spitter.png|1
+8-146|Strange Gladiator|Rare|Unit|3|{F}{T}|True|True|False|False|False|images/set8/Strange_Gladiator.png|1
+8-147|Victor's Feast|Uncommon|Spell|4|{F}{T}|True|True|False|False|False|images/set8/Victor's_Feast.png|1
+8-148|Unlock the Vault|Rare|Spell|6|{F}{T}|True|True|False|False|False|images/set8/Unlock_the_Vault.png|1
+8-149|Keeper's Shield|Uncommon|Relic Weapon|3|{F}{J}|True|False|True|False|False|images/set8/Keeper's_Shield.png|1
+8-150|Strange Blacksmith|Rare|Unit|4|{F}{J}|True|False|True|False|False|images/set8/Strange_Blacksmith.png|1
+8-151|Hammer of Glory|Rare|Relic Weapon|5|{F}{F}{J}{J}|True|False|True|False|False|images/set8/Hammer_of_Glory.png|1
+8-152|Spellbound Vestige|Uncommon|Relic|2|{F}{P}|True|False|False|True|False|images/set8/Spellbound_Vestige.png|1
+8-153|Acedonis, Untainted|Rare|Unit|4|{F}{P}|True|False|False|True|False|images/set8/Acedonis,_Untainted.png|1
+8-154|Strange Tracker|Rare|Unit|4|{F}{P}|True|False|False|True|False|images/set8/Strange_Tracker.png|1
+8-155|Shrine to Karvet|Rare|Relic|3|{F}{S}|True|False|False|False|True|images/set8/Shrine_to_Karvet.png|1
+8-156|Strange Burglar|Rare|Unit|4|{F}{S}|True|False|False|False|True|images/set8/Strange_Burglar.png|1
+8-157|Premature Burial|Uncommon|Spell|6|{F}{S}|True|False|False|False|True|images/set8/Premature_Burial.png|1
+8-158|Hammer of Unity|Rare|Weapon|2|{T}{J}|False|True|True|False|False|images/set8/Hammer_of_Unity.png|1
+8-159|Pillar of Progress|Uncommon|Relic|2|{T}{J}|False|True|True|False|False|images/set8/Pillar_of_Progress.png|1
+8-160|Strange Duelist|Rare|Unit|3|{T}{J}|False|True|True|False|False|images/set8/Strange_Duelist.png|1
+8-161|Majestic Skies|Uncommon|Relic|2|{T}{P}|False|True|False|True|False|images/set8/Majestic_Skies.png|1
+8-162|Strange Sorcerer|Rare|Unit|3|{T}{P}|False|True|False|True|False|images/set8/Strange_Sorcerer.png|1
+8-163|Albon, Fallen|Rare|Unit|5|{T}{T}{P}{P}|False|True|False|True|False|images/set8/Albon,_Fallen.png|1
+8-164|Endless Nightmare|Rare|Unit|2|{T}{S}|False|True|False|False|True|images/set8/Endless_Nightmare.png|1
+8-165|Strange Navigator|Rare|Unit|2|{T}{S}|False|True|False|False|True|images/set8/Strange_Navigator.png|1
+8-166|Eremot's Machinations|Uncommon|Spell|5|{T}{S}|False|True|False|False|True|images/set8/Eremot's_Machinations.png|1
+8-167|Strange Rider|Rare|Unit|3|{J}{P}|False|False|True|True|False|images/set8/Strange_Rider.png|1
+8-168|Yojimba, Ghostblade|Rare|Unit|3|{J}{P}|False|False|True|True|False|images/set8/Yojimba,_Ghostblade.png|1
+8-169|Dying Sun Tapestry|Uncommon|Relic|6|{J}{P}|False|False|True|True|False|images/set8/Dying_Sun_Tapestry.png|1
+8-170|Reborn Master|Uncommon|Unit|2|{J}{S}|False|False|True|False|True|images/set8/Reborn_Master.png|1
+8-171|Strange Ally|Rare|Unit|3|{J}{S}|False|False|True|False|True|images/set8/Strange_Ally.png|1
+8-172|Unseen Execution|Rare|Spell|6|{J}{J}{S}{S}|False|False|True|False|True|images/set8/Unseen_Execution.png|1
+8-173|Essence Feast|Uncommon|Spell|2|{P}{S}|False|False|False|True|True|images/set8/Essence_Feast.png|1
+8-174|Strange Broker|Rare|Unit|3|{P}{S}|False|False|False|True|True|images/set8/Strange_Broker.png|1
+8-175|Darktalon Wyvarch|Rare|Unit|4|{P}{P}{S}{S}|False|False|False|True|True|images/set8/Darktalon_Wyvarch.png|1
+8-176|Token of Creation|Common|Power|0||False|False|False|False|False|images/set8/Token_of_Creation.png|1
+8-177|Creation Chant|Rare|Spell|1||False|False|False|False|False|images/set8/Creation_Chant.png|1
+8-178|Display of Creation|Uncommon|Fast Spell|3|{F}{T}{J}|True|True|True|False|False|images/set8/Display_of_Creation.png|1
+8-179|Naoki, Valiant Warrior|Legendary|Unit|5|{F}{F}{T}{T}{J}{J}|True|True|True|False|False|images/set8/Naoki,_Valiant_Warrior.png|1
+8-180|Edge of Prophecy|Uncommon|Relic Weapon|7|{F}{T}{J}|True|True|True|False|False|images/set8/Edge_of_Prophecy.png|1
+8-181|Token of Destruction|Common|Power|0||False|False|False|False|False|images/set8/Token_of_Destruction.png|1
+8-182|Destruction Chant|Rare|Spell|1||False|False|False|False|False|images/set8/Destruction_Chant.png|1
+8-183|Display of Destruction|Uncommon|Fast Spell|3|{F}{T}{S}|True|True|False|False|True|images/set8/Display_of_Destruction.png|1
+8-184|Dova, the Fearmonger|Legendary|Unit|5|{F}{F}{T}{T}{S}{S}|True|True|False|False|True|images/set8/Dova,_the_Fearmonger.png|1
+8-185|Awakened Gorger|Uncommon|Unit|6|{F}{T}{S}|True|True|False|False|True|images/set8/Awakened_Gorger.png|1
+8-186|Token of Menace|Common|Power|0||False|False|False|False|False|images/set8/Token_of_Menace.png|1
+8-187|Menace Chant|Rare|Spell|1||False|False|False|False|False|images/set8/Menace_Chant.png|1
+8-188|Display of Menace|Uncommon|Fast Spell|3|{F}{P}{S}|True|False|False|True|True|images/set8/Display_of_Menace.png|1
+8-189|Skylord Tolek|Legendary|Unit|5|{F}{F}{P}{P}{S}{S}|True|False|False|True|True|images/set8/Skylord_Tolek.png|1
+8-190|Razorpain Hellkite|Uncommon|Unit|6|{F}{P}{S}|True|False|False|True|True|images/set8/Razorpain_Hellkite.png|1
+8-191|Token of Purpose|Common|Power|0||False|False|False|False|False|images/set8/Token_of_Purpose.png|1
+8-192|Purpose Chant|Rare|Spell|1||False|False|False|False|False|images/set8/Purpose_Chant.png|1
+8-193|Display of Purpose|Uncommon|Fast Spell|3|{J}{P}{S}|False|False|True|True|True|images/set8/Display_of_Purpose.png|1
+8-194|Zadia, Revered Outcast|Legendary|Unit|5|{J}{J}{P}{P}{S}{S}|False|False|True|True|True|images/set8/Zadia,_Revered_Outcast.png|1
+8-195|Agent of Purpose|Uncommon|Unit|6|{J}{P}{S}|False|False|True|True|True|images/set8/Agent_of_Purpose.png|1
+8-196|Token of Tradition|Common|Power|0||False|False|False|False|False|images/set8/Token_of_Tradition.png|1
+8-197|Tradition Chant|Rare|Spell|1||False|False|False|False|False|images/set8/Tradition_Chant.png|1
+8-198|Display of Tradition|Uncommon|Fast Spell|3|{T}{J}{P}|False|True|True|True|False|images/set8/Display_of_Tradition.png|1
+8-199|Sorcerer's Wand|Uncommon|Relic|5|{T}{J}{P}|False|True|True|True|False|images/set8/Sorcerer's_Wand.png|1
+8-200|Wren, Traditionalist|Legendary|Unit|5|{T}{T}{J}{J}{P}{P}|False|True|True|True|False|images/set8/Wren,_Traditionalist.png|1
+8-201|Rage|Common|Fast Spell|1||False|False|False|False|False|images/set8/Rage.png|1
+8-202|Unfamiliar Interloper|Common|Unit|2||False|False|False|False|False|images/set8/Unfamiliar_Interloper.png|1
+8-203|Unity Within|Uncommon|Spell|2||False|False|False|False|False|images/set8/Unity_Within.png|1
+8-324|Traver's Farm|Promo|Site|4||False|False|False|False|False|images/set8/Traver's_Farm.png|1
 1001-Honed Blade|Honed Blade|None|Relic Weapon|5|{J}|False|False|True|False|False|images/set1001/Honed_Blade.png|1
 1001-1|Praxis Outlaw|Uncommon|Unit|3|{F}|True|False|False|False|False|images/set1001/Praxis_Outlaw.png|1
 1001-2|Bait|Rare|Unit|5|{F}{F}|True|False|False|False|False|images/set1001/Bait.png|1
@@ -2133,7 +2363,7 @@
 1001-10|Shadowlands Feaster|Legendary|Unit|7|{S}{S}|False|False|False|False|True|images/set1001/Shadowlands_Feaster.png|1
 1001-11|Jekk, the Bounty Hunter|Legendary|Unit|6|{F}{J}|True|False|True|False|False|images/set1001/Jekk,_the_Bounty_Hunter.png|1
 1001-12|Combrei Emissary|Rare|Unit|3|{T}{J}|False|True|True|False|False|images/set1001/Combrei_Emissary.png|1
-1001-13|Avisaur Patriarch|Rare|Unit|4|{T}{T}{P}{P}|False|True|False|True|False|images/set1001/Avisaur_Patriarch.png|1
+1001-13|Avisaur Patriarch|Rare|Unit|3|{T}{T}{P}|False|True|False|True|False|images/set1001/Avisaur_Patriarch.png|1
 1001-14|Cabal Spymaster|Rare|Unit|4|{P}{S}|False|False|False|True|True|images/set1001/Cabal_Spymaster.png|1
 1001-15|Quarry|Uncommon|Spell|2|{F}{S}|True|False|False|False|True|images/set1001/Quarry.png|1
 1001-16|Nictotraxian|Legendary|Unit|7|{F}{T}{J}{P}{S}|True|True|True|True|True|images/set1001/Nictotraxian.png|1
@@ -2191,7 +2421,6 @@
 1003-24|Anointer of the Faithful|Rare|Unit|2|{J}{S}|False|False|True|False|True|images/set1003/Anointer_of_the_Faithful.png|1
 1003-25|Lethrai Skystrider|Rare|Unit|4|{P}{S}|False|False|False|True|True|images/set1003/Lethrai_Skystrider.png|1
 1004-Razortooth Aranha|Razortooth Aranha|None|Unit|1|{T}|False|True|False|False|False|images/set1004/Razortooth_Aranha.png|1
-1004-Xulta Exile|Xulta Exile|None|Unit|3|{J}|False|False|True|False|False|images/set1004/Xulta_Exile.png|1
 1004-Goat|Goat|None|Unit|2||False|False|False|False|False|images/set1004/Goat.png|1
 1004-Helici|Helici|None|Unit|2|{T}{S}|False|True|False|False|True|images/set1004/Helici.png|1
 1004-Word of Sol|Word of Sol|None|Spell|7||False|False|False|False|False|images/set1004/Word_of_Sol.png|1
@@ -2265,9 +2494,9 @@
 1006-18|Frontier Surveyor|Rare|Unit|5|{S}{S}|False|False|False|False|True|images/set1006/Frontier_Surveyor.png|1
 1006-19|Debtor's Shackles|Uncommon|Weapon|5|{S}{S}|False|False|False|False|True|images/set1006/Debtor's_Shackles.png|1
 1006-20|Uldra, Veilripper|Legendary|Unit|6|{S}{S}|False|False|False|False|True|images/set1006/Uldra,_Veilripper.png|1
-1007-Shavka's Song|Shavka's Song|None|Spell|2|{F}{F}|True|False|False|False|False|images/set1007/Shavka's_Song.png|1
+1007-Shavka's Song|Shavka's Song|None|Spell|3|{F}{F}{F}|True|False|False|False|False|images/set1007/Shavka's_Song.png|1
 1007-1|Cinder Clutch|Rare|Spell|1|{F}|True|False|False|False|False|images/set1007/Cinder_Clutch.png|1
-1007-2|Endra, Champion of Shavka|Legendary|Unit|2|{F}{F}|True|False|False|False|False|images/set1007/Endra,_Champion_of_Shavka.png|1
+1007-2|Endra, Champion of Shavka|Legendary|Unit|3|{F}{F}{F}|True|False|False|False|False|images/set1007/Endra,_Champion_of_Shavka.png|1
 1007-3|Ixtol's Pendant|Rare|Relic|2|{T}|False|True|False|False|False|images/set1007/Ixtol's_Pendant.png|1
 1007-4|Ixtol, Champion of Grodov|Legendary|Unit|6|{T}{T}{T}|False|True|False|False|False|images/set1007/Ixtol,_Champion_of_Grodov.png|1
 1007-5|Aali, Champion of Kodosh|Legendary|Unit|3|{J}{J}|False|False|True|False|False|images/set1007/Aali,_Champion_of_Kodosh.png|1
