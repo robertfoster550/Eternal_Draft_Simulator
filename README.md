@@ -64,3 +64,9 @@ Also added a shortcut icon.
 
 Fixed the program, so that it would run.
 Added 'Promises by Firelight' cards.
+
+### Version 1.5 ###
+
+Changing the way boosted cards are added, so that different amounts can be added for each card.
+Added the Flames of Xulta preview format.
+Added Echoes of Eternity cards and format.
